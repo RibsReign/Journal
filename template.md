@@ -1,7 +1,9 @@
-/* Today I c
-*/
+# Day 1
 
-/* 
-TODO 1- 
-TODO - 
-*/
+## PREVIOUS TASKS:
+1. 
+2. 
+## TODO:
+1. a
+2. a
+## REFLECTION:
