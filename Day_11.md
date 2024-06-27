@@ -1,4 +1,4 @@
-# Day 11
+# Day 11 (24.06.2024)
 
 Managed to finish the project in one go, even though it was just rewriting the project. I did learn how to work with branches and put the dom manipulation to use. I can see that i still have to have a lot of practice with to get used to it but that is okay.
 

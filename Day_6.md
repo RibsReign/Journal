@@ -1,4 +1,4 @@
-# Day 6
+# Day 6 (18.06.2024)
 
 Today I did redid the fizzbuzz and flexbox zombies 4. Went over the rock paper scissor project, node, clean code standards and array and it's methods.
 

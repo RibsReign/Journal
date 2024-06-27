@@ -1,4 +1,4 @@
-# Day 8
+# Day 8 (20.06.2024)
 
 Read through the basic introduction to Dom manipulation, didn't do a lot today but I still settled the knowledged in my brain which I'm sure will help me tommorow.
 

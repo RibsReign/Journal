@@ -1,4 +1,4 @@
-# Day 9
+# Day 9 (21.06.2024)
 
 Today I finished going over [HTML DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp).
 

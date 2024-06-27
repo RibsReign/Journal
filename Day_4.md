@@ -1,4 +1,4 @@
-# Day 4
+# Day 4 (16.06.2024)
 
 Today I went over how to make functions and how to use methods properly.
 

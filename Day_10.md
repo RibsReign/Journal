@@ -1,4 +1,4 @@
-# Day 10
+# Day 10 (22.06.2024)
 
 Finished going over the resources and now I'm noving on to revisiting Rock Paper and Scissors project.
 [Events at the bottom](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events)

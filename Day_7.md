@@ -1,4 +1,4 @@
-# Day 7
+# Day 7 (19.06.2024)
 
 Today I redid all the Javascript Excercises needed for the module and I'm officialy caught up Yaaaay :D. I was able to breeze through them since I know now how to research for modules and how JS works compared to C. All I have to do is keep going like this every day and I'll be caught up in no time.
 

@@ -1,4 +1,4 @@
-# Day 2
+# Day 2 (13.06.2024)
 
 Today I learned a lot about markdown syntax and realized that I can preview code on github.  
 I've reviewed the Foundation content up to  the recipe project, I hav realized that redoing that simple of a project would be a waste of time so I have decided to just keep going after going over it.

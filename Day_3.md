@@ -1,4 +1,4 @@
-# Day 3
+# Day 3 (14.06.2024)
 
 Today started off good I spend a good chunk just going through materials and playing [flexbox zombies](https://mastery.games/flexboxzombies/).
 I have judged that just as with previous content it's an overkill to redo the project since none of these project will be on any portfolios and they are supposed to be a learning opportunity.
