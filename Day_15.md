@@ -14,7 +14,7 @@
 
 ## PREVIOUS TASKS
 
-1. Get started on the Object basics.
+1. ~~Get started on the Object basics.~~
 
 ## REPEAT TASKS
 
