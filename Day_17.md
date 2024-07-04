@@ -1,6 +1,6 @@
 # Day 17 (02.07.2024)
 
-Today I used **some()**, **every()**,   
+Today I used **some()**, **every()**,  
 **find()** - Find is like filter, but instead returns just the one you are looking for  
 **findIndex()** - Find the comment with this ID  
 **push(...items)** – adds items to the end  
