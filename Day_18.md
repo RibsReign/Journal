@@ -29,7 +29,7 @@
 **sort(func)** – sorts the array in-place, then returns it.
 **reverse()** – reverses the array in-place, then returns it.
 **split/join** – convert a string to array and back.
-**reduce/reduceRight(func, initial) – calculate a single value over the array by calling func for each element and passing an intermediate result between the calls.
+**reduce/reduceRight(func, initial)** – calculate a single value over the array by calling func for each element and passing an intermediate result between the calls.
 
 ## Additionally
 
