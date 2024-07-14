@@ -1,5 +1,5 @@
 # Day 25 (24.07.2024)
-
+Yesterday was a break day today we're back on the grind!
 ## PREVIOUS TASKS
 
 1.
