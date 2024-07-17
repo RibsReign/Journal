@@ -1,5 +1,7 @@
 # Day 26 (16.07.2024)
+
 Not a whole lot to not just a lot of reading. Also watched some videos about node and ruby.
+
 ## PREVIOUS TASKS
 
 1. ~~Choose a path.~~
