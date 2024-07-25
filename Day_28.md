@@ -77,6 +77,21 @@
 "hello world".delete("l")       #=> "heo word"
 ```
 
+**drop**  
+
+```RUBY
+array = [1, 2, 3, 4, 5]
+array = array.drop(3) # => [4, 5] drop to return a new array
+```
+
+**shift**  
+
+```RUBY
+array = [1, 2, 3, 4, 5]
+array.shift(3)
+array # shift to modify the original array and then returns it. array is now [4, 5]
+```
+
 **prepend**  
 
 ```RUBY

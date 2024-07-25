@@ -1,10 +1,6 @@
 # Day 29 (22.07.2024)
 
-sdfsdfd
-
-## Test
-
-**Inputwithgets**  
+**Input with gets**  
 
 ```RUBY
 irb :001 > name = gets
