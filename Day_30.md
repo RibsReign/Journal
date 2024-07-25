@@ -108,5 +108,3 @@ irb :003 > numbers
 2. Make sure to push Journal entries on time.
 
 ## REFLECTION
-
-You can now copy this text and paste it directly into a .txt file. The markdown formatting will be preserved, and you can then use this file as needed.
