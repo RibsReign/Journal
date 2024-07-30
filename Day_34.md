@@ -38,6 +38,5 @@ isogram?("Odin")
 
 1. Continue learning about Ruby
 2. Make sure to push Journal entries on time.
-3. Edit Day 34
 
 ## REFLECTION
