@@ -17,8 +17,7 @@ Today I learned a bit more abot debugging and did some exercises on Exercism, pr
 
 ## TODO
 
-1. a
-2. a
-
+1. ~~Continue learning about Ruby~~
+2. ~~Make sure to push Journal entries on time.~~
 
 ## REFLECTION
