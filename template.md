@@ -9,7 +9,8 @@
 
 1. Meditation
 2. Flexbox Zombies
-3. LeetCode
+3. Exercism
+4. LeetCode
 
 ## TODO
 
