@@ -1,4 +1,4 @@
-# Day 38 (03.10.2024)
+# Day 38 (02.10.2024)
 
 So... Previous entry was a lie I stopped completely, but this time it will be different for sure. Why? Cause i say so LOL.
 Finished setting everything up hopefully? Setup the wsl, git, ruby and cloned everything on my device.
