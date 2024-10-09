@@ -1,5 +1,9 @@
 # Day  ()
 
+## REFLECTION
+
+## NOTES
+
 ## PREVIOUS TASKS
 
 1.
@@ -16,5 +20,3 @@
 
 1. a
 2. a
-
-## REFLECTION
