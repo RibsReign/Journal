@@ -27,3 +27,8 @@ When you see a block defined with |example1, example2|, here's what each part ty
 1. Meditation  
 2. Flexbox Zombies  
 3. Exercism  
+
+## TODO
+
+1. Finish Ruby Exercises
+2. Make sure to push Journal entries on time
